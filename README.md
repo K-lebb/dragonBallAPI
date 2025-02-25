@@ -9,6 +9,7 @@ Um projeto de um site de API, desenvolvido para aprofundar o conhecimento sobre 
 
 - Página inicial com informações dos personagens.
 - Barra de pesquisa interativa.
+- Paginação para melhor processo de renderização
 - Layout responsivo para dispositivos móveis.
 
 ---
